@@ -1,0 +1,38 @@
+[33mcommit d50dd7409ea1bf734ab3bfa2a8112b8bfc6df589[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: asdfghj <sebastianagafonov@gmail.com>
+Date:   Thu Sep 17 01:07:37 2026 +0300
+
+    Добавить C к языкам
+
+[33mcommit 64b1a725fd5ea7738f1ccf8193e581eb38b508a5[m
+Author: asdfghj <sebastianagafonov@gmail.com>
+Date:   Thu Sep 17 01:04:06 2026 +0300
+
+    Уточнить версию Python
+
+[33mcommit b115b6e370786a2fbaac5349b6ae1afc7e533bd2[m
+Author: asdfghj <sebastianagafonov@gmail.com>
+Date:   Thu Sep 17 00:58:02 2026 +0300
+
+    Добавить файл practice.md
+
+[33mcommit b8aaaa40f0f2b5723061acf5ae2e6a0dd356826a[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 647e5b9 7fddb1e
+Author: asdfghj <sebastianagafonov@gmail.com>
+Date:   Sat Sep 12 14:13:55 2026 +0300
+
+    Merge pull request #1 from VladislavSoren/master
+    
+    Новые правки
+
+[33mcommit 7fddb1e73323c4cca2db1865fd001f414c1792f6[m
+Author: VladislavSoren <vlad224vlgu@gmail.com>
+Date:   Sat Sep 12 14:10:48 2026 +0300
+
+    Новые правки
+
+[33mcommit 647e5b90c939dca293c769493502ddc9d6b84038[m
+Author: asdfghj <sebastianagafonov@gmail.com>
+Date:   Sat Sep 12 13:57:11 2026 +0300
+
+    1commit
