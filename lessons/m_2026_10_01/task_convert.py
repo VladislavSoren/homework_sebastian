@@ -19,6 +19,9 @@ print("--- Задача 1 ---")
 age_text = "15"
 
 # ТВОЙ КОД ЗДЕСЬ
+age_text = "15"
+age = int(age_text)
+print(age + 1)
 
 
 
@@ -41,3 +44,9 @@ c = 3.9
 
 # ТВОЙ КОД ЗДЕСЬ
 
+a = "15"
+b = 1
+c = 3.9
+print(int(a) + b)
+print(a + str(b))
+print(int(c))

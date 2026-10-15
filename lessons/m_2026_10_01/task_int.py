@@ -22,8 +22,10 @@ apples = 17
 kids = 5
 
 # ТВОЙ КОД ЗДЕСЬ
-
-
+apples = 17
+kids = 5
+print(apples / kids)
+print(a % b)
 
 # ---------- Задача 2 ----------
 # Условие: переведи секунды в часы, минуты и секунды.
@@ -36,4 +38,8 @@ print("--- Задача 2 ---")
 seconds = 3725
 
 # ТВОЙ КОД ЗДЕСЬ
-
+seconds = 3725
+print(seconds // 60)
+print(seconds // 60)
+print(seconds % 60)
+print(seconds % 60)

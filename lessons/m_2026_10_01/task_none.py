@@ -22,7 +22,9 @@ print("--- Задача 1 ---")
 middle_name = None
 
 # ТВОЙ КОД ЗДЕСЬ
-
+middle_name = Иванович
+print(middle_name is Иванович)
+print(not (middle_name is Иванович))
 
 
 # ---------- Задача 2 ----------
@@ -39,4 +41,8 @@ wallet_a = 0
 wallet_b = None
 
 # ТВОЙ КОД ЗДЕСЬ
-
+wallet_a = 0
+wallet_b = None
+print(middle_wallet_b is None)
+print(middle_wallet_a is 0)
+print(not (middle_wallet_b is None))

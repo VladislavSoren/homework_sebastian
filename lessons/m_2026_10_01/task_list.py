@@ -25,7 +25,10 @@ print("--- Задача 1 ---")
 marks = [5, 4, 5, 3]
 
 # ТВОЙ КОД ЗДЕСЬ
-
+marks = [5, 4, 5, 3]
+print(marks[0])
+print(marks[-1])
+print(len(marks))
 
 
 # ---------- Задача 2 ----------
@@ -42,4 +45,8 @@ print("--- Задача 2 ---")
 shopping = ["хлеб", "молоко", "яйца"]
 
 # ТВОЙ КОД ЗДЕСЬ
-
+shopping = ["хлеб", "молоко", "яйца"]
+shopping.append("сыр")
+shopping[1] = "кефир"
+print(shopping)
+print(sorted(shopping))

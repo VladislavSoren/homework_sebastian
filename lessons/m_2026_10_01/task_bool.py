@@ -24,6 +24,10 @@ age = 15
 has_ticket = True
 
 # ТВОЙ КОД ЗДЕСЬ
+age = 15
+has_ticket = True
+can_enter = age >= 12 and has_ticket
+is_adult = age >= 18 and has_ticket
 
 
 
@@ -41,4 +45,5 @@ print("--- Задача 2 ---")
 number = 7
 
 # ТВОЙ КОД ЗДЕСЬ
+number = 7
 
