@@ -25,7 +25,7 @@ kids = 5
 apples = 17
 kids = 5
 print(apples / kids)
-print(a % b)
+print(apples % kids)
 
 # ---------- Задача 2 ----------
 # Условие: переведи секунды в часы, минуты и секунды.
