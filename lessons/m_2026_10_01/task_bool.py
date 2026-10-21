@@ -46,4 +46,5 @@ number = 7
 
 # ТВОЙ КОД ЗДЕСЬ
 number = 7
-
+if number % 2 == 0:
+    

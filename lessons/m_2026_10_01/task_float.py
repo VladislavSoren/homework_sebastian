@@ -44,3 +44,4 @@ a = 0.1
 b = 0.2
 print(a + b)
 print(a + b == 0.3)
+print(round(a + b, 2))

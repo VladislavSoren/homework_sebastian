@@ -39,7 +39,7 @@ seconds = 3725
 
 # ТВОЙ КОД ЗДЕСЬ
 seconds = 3725
-print(seconds // 60)
-print(seconds // 60)
-print(seconds % 60)
+print(seconds // (60 * 60))
+print(seconds // (60 / 60))
+print(seconds % // 60 // 60)
 print(seconds % 60)
